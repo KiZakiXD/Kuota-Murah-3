@@ -1,6 +1,8 @@
-## Tools Kuota 3 Murah
+# Tools Kuota 3 Murah
 
-Cara Menggunakan :
+## Cara Menggunakan :
+```
+ 🍟 For Termux :
 
 - pkg update
 - pkg install upgrade
@@ -10,3 +12,7 @@ Cara Menggunakan :
 - termux-setup-storage
 - cd Kuota-Murah-3
 - php 3.php
+
+
+ 🍟 For Windows / CMD :
+
